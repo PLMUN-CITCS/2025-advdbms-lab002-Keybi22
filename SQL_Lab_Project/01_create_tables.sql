@@ -4,3 +4,4 @@ CREATE TABLE tblstudents (
     student_email VARCHAR(50) NOT NULL UNIQUE,
     student_phone VARCHAR(50) NOT NULL
 );
+
